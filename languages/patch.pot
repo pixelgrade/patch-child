@@ -1,0 +1,236 @@
+# Copyright (C) 2016 PixelGrade
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Patch 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/patch\n"
+"POT-Creation-Date: 2016-06-02 17:33:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like something is amiss. A quick search might help."
+msgstr ""
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:66 comments.php:67
+msgid "Name"
+msgstr ""
+
+#: comments.php:71 comments.php:72
+msgid "Email"
+msgstr ""
+
+#: comments.php:76 comments.php:77
+msgid "Website"
+msgstr ""
+
+#: comments.php:80
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:80
+msgid "Message"
+msgstr ""
+
+#: comments.php:83
+msgid "Post"
+msgstr ""
+
+#: footer.php:17
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:56 header.php:30
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:33
+msgid "Open Sidebar"
+msgstr ""
+
+#: header.php:38
+msgid "Skip to content"
+msgstr ""
+
+#. translators: used on the attachment page to link to the parent post
+#: image.php:36
+msgid "Published in %s"
+msgstr ""
+
+#: inc/extras.php:121
+msgid "Pingback:"
+msgstr ""
+
+#: inc/extras.php:125 inc/extras.php:158
+#: template-parts/content-attachment.php:17
+msgid "Edit"
+msgstr ""
+
+#: inc/extras.php:153
+msgid "on %s at %s"
+msgstr ""
+
+#: inc/extras.php:173
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	* supported by Montserrat, translate this to 'off'. Do not translate
+#. 	* into your own language.
+#: inc/extras.php:197
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	* supported by Butler, translate this to 'off'. Do not translate
+#. 	* into your own language.
+#: inc/extras.php:218
+msgctxt "Butler font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:37
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:72
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:112
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:120
+msgid "Prev"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "Next"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:312
+msgid "Image navigation"
+msgstr ""
+
+#: index.php:28
+msgid ""
+"<h1 class=\"archive-title  archive-title--search\">Search Results for: <span "
+"class=\"search-query\">%s</span></h1>"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Close Sidebar"
+msgstr ""
+
+#: template-parts/content-attachment.php:43 template-parts/content-page.php:46
+#: template-parts/content-single.php:48
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-header.php:39
+msgid "Close Primary Menu"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:32 template-parts/content-quote.php:38
+#: template-parts/content-single.php:32 template-parts/content.php:33
+#: template-parts/content.php:55
+msgid "Edit %s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-quote.php:15
+msgid "Continue reading %s"
+msgstr ""
+
+#: template-parts/content.php:66
+msgid "More"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/premium/patch/style.css
+msgid "patch"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/premium/patch/style.css
+msgid "https://pixelgrade.com/demos/patch/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/patch/style.css
+msgid ""
+"A dynamic grid-based layout inspired and shaped by your content diversity."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/premium/patch/style.css
+msgid "PixelGrade"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/patch/style.css
+msgid "https://pixelgrade.com/"
+msgstr ""
