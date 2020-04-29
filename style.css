@@ -14,7 +14,7 @@ Template: patch
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 
-Gema is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+Patch is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
 Underscores is distributed under the terms of the GNU GPL v2 or later.
 */
 
@@ -24,4 +24,4 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 /* This file assumes you wish to add new CSS rules that will overwrite the ones in the parent's CSS files
 If you wish however, you can copy the whole style.css file from the parent here and hack at it - see functions.php for more details.
 In that case please remember that you still need to retain the header above (replace the header of the parent style.css with the one above),
-specifically the 'Template: hive' line. */
+specifically the 'Template: patch' line. */
